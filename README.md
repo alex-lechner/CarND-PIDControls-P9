@@ -70,7 +70,7 @@ The following resource gave me good hints for manually tuning the hyperparameter
 
 [Link to the video of the final output][output video]
 
-Note: This is gif is accelerated and does not match with the actual speed during this recording.
+Note: This is video is accelerated and does not match with the actual speed during this recording.
 
 ---
 
