@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 
 ### 1. Submission includes all required files and every TODO task has been accomplished 
 
-For this project, I have used the [PID Controls Project Starter Code][udacity code] from Udacity and I have modified the following two files:
+For this project, I have used the [PID Controls Project Starter Code][udacity code] from Udacity and I have modified the following three files:
 ```cpp
 main.cpp
 PID.cpp
