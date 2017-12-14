@@ -55,7 +55,7 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 3. `cmake .. -G "Unix Makefiles" && make` on Windows 10 or `cmake .. && make` on Linux or Mac
 4. `./pid`
 
-Then the simulator has to be started and *Project 3: Kidnapped Vehicle* has to be selected. When everything is set up the Linux Bash Shell should print: 
+Then the simulator has to be started and *Project 4: PID Controller* has to be selected. When everything is set up the Linux Bash Shell should print: 
 ```bash 
 Listening to Port 4567
 Connected
